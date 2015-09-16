@@ -1,8 +1,3 @@
-#+TITLE: 太上老君虛無自然本起經 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-29 03:00:56.499959
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5h0007_000.txt][太上老君虛無自然本起經 0]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
